@@ -157,4 +157,13 @@ border: 1px solid black;
         width: 135px;
         font-size: 12px;
     }
+    .img-sec{
+        height: 55%;
+        width: 100%;
+       
+    }
+    .img-sec img{
+        height: 300px;
+        width: 100%;
+    }
 }
